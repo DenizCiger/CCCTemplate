@@ -29,6 +29,67 @@
 
                         // Ouput of all files are then stored in the outputs list
                         outputs.Add(output.ToArray());
+                        Console.WriteLine("Generated an output file");
+                    }
+                    break;
+                case 2:
+                    foreach (string[] input in inputs)
+                    {
+                        List<string> output = new List<string>();
+
+                        // Implement logic here
+                        // Add all the output lines of a single input file to the output list
+
+
+
+                        // Ouput of all files are then stored in the outputs list
+                        outputs.Add(output.ToArray());
+                        Console.WriteLine("Generated an output file");
+                    }
+                    break;
+                case 3:
+                    foreach (string[] input in inputs)
+                    {
+                        List<string> output = new List<string>();
+
+                        // Implement logic here
+                        // Add all the output lines of a single input file to the output list
+
+
+
+                        // Ouput of all files are then stored in the outputs list
+                        outputs.Add(output.ToArray());
+                        Console.WriteLine("Generated an output file");
+                    }
+                    break;
+                case 4:
+                    foreach (string[] input in inputs)
+                    {
+                        List<string> output = new List<string>();
+
+                        // Implement logic here
+                        // Add all the output lines of a single input file to the output list
+
+
+
+                        // Ouput of all files are then stored in the outputs list
+                        outputs.Add(output.ToArray());
+                        Console.WriteLine("Generated an output file");
+                    }
+                    break;
+                case 5:
+                    foreach (string[] input in inputs)
+                    {
+                        List<string> output = new List<string>();
+
+                        // Implement logic here
+                        // Add all the output lines of a single input file to the output list
+
+
+
+                        // Ouput of all files are then stored in the outputs list
+                        outputs.Add(output.ToArray());
+                        Console.WriteLine("Generated an output file");
                     }
                     break;
                 default:
